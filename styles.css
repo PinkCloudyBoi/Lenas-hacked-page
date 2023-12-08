@@ -1,0 +1,36 @@
+body {
+    background-color: darkolivegreen;
+}
+
+h1 {
+ color: #f57542; 
+ font-style: italic; 
+}
+
+.darkgreen {
+    color: #223826;
+}
+
+.mudyellow {
+    color: #dec96d;
+}
+
+.darkorange {
+    color:darkorange;
+}
+
+.azure {
+    color:azure;
+}
+
+.blue {
+    color:paleturquoise;
+}
+
+.gold {
+    color: gold
+}
+
+.oneline {
+    display: inline-block;
+}
